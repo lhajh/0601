@@ -169,4 +169,4 @@
       v-my-directive='xxx'
       ```
 
-test1234
+test1
