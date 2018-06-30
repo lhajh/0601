@@ -1,4 +1,5 @@
-﻿* Vue.js是什么?
+﻿test
+* Vue.js是什么?
 	* 一位华裔前Google工程师开发的前端js库
 	* 一个MVVM的框架
 	* 核心概念
